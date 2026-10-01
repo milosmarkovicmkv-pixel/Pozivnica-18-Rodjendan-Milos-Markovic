@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="sr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pozivnica – 18. rođendan</title>
+<meta property="og:type" content="website">
+<meta property="og:title" content="Pozivnica – 18. rođendan">
+<meta property="og:description" content="Pozivam te na moj 18. rođendan! Potvrdi dolazak najkasnije do 27.07.2027.">
+<meta property="og:image" content="https://BENUTZERNAME.github.io/pozivnica/pozivnica.jpg">
+<meta property="og:image:width" content="702">
+<meta property="og:image:height" content="920">
+<meta property="og:url" content="https://BENUTZERNAME.github.io/pozivnica/">
+<style>
+html,body{margin:0;background:#0d0d0d}
+body{display:flex;justify-content:center}
+img{display:block;width:100%;max-width:702px;height:auto}
+</style></head>
+<body><img src="pozivnica.jpg" alt="Pozivnica za 18. rođendan"></body></html>
